@@ -51,3 +51,14 @@ plt.plot(t_fit, h_fit)
 plt.xlabel("time (s)")
 plt.ylabel("height (m)")
 plt.show()
+
+
+
+# for the cannon ball the quadratic fit worked well because the cannonball did not have air resistance
+# so it was close to a perfect curve minus the starting point of how high the cannon started.
+
+# for the piano it wasnt as good and i think it is because of the air resistance. the drag slows it down
+# and changes the shape so the curse does not match as nice as the cannon ball.
+
+# the linear fit for x verses time also worked better for the cannonball. It is close to a staight line
+# while the piano is not due to the drag slowing it down. 
