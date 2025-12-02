@@ -1,6 +1,6 @@
 from fitting_functions import *
 
-print("m =", linear(2, 3, 4))
+print("m =", linear_fun(2, 3, 4))
 print(slope_units("meters", "kg"))
 print(slope_units("sec", "meters"))
 

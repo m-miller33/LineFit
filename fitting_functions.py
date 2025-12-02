@@ -1,4 +1,4 @@
-def linear(m, x, b):
+def linear_fun(m, x, b):
     y = m * x + b
     return y
 
